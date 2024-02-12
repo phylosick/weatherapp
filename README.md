@@ -1,16 +1,11 @@
-# weatherapp
+# Valentine's Recap
 
-A new Flutter project made by me.
+Photo album website that I made for my gf to surprise her on Valentine's day 2020.
 
-## Getting Started
+Hosted at https://tommyli3318.github.io/valentines/
 
-This project is a starting point for a Flutter application.
+Credits:
 
-A few resources to get you started if this is your first Flutter project:
+* Boilerplate: [Big Picture](https://html5up.net/big-picture) from [html5up.net](https://html5up.net/)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Music Credit: [告白氣球 - 周杰倫](https://www.youtube.com/watch?v=bu7nU9Mhpyo)
